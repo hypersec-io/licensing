@@ -46,5 +46,5 @@ All edits to these files should be made in **this repository only**. Do not modi
 
 ## Contact
 
-- **Commercial licensing**: sales@hyperi.com.au
-- **Security reports**: security@hypersec.io
+- **Commercial licensing**: sales@hyperi.io
+- **Security reports**: security@hyperi.io
