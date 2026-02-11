@@ -42,6 +42,19 @@ You may obtain a copy of the Apache License at:
 
 https://www.apache.org/licenses/LICENSE-2.0
 
+## AI / Machine Learning Restriction
+
+No part of this software, its source code, documentation, or associated
+materials may be used as training data for, or as input to, any machine
+learning model, artificial intelligence system, large language model, or
+similar technology — whether for commercial or non-commercial purposes —
+without the prior written consent of HYPERI PTY LIMITED.
+
+This restriction applies regardless of the format in which the materials are
+accessed (including but not limited to source code, compiled binaries,
+documentation, and metadata) and survives the Apache 2.0 conversion described
+above only to the extent permitted by the Apache License, Version 2.0.
+
 ## Australian Law Notice
 
 For users in Australia: To the extent this License is governed by Australian

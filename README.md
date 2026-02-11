@@ -27,7 +27,7 @@ These files are the canonical source for all HyperI repositories. To set up a ne
 
 ```bash
 # Clone and copy to your new repository
-git clone https://github.com/hypersec-io/licensing.git /tmp/licensing
+git clone https://github.com/hyperi-io/licensing.git /tmp/licensing
 cp /tmp/licensing/LICENSE /tmp/licensing/COMMERCIAL.md \
    /tmp/licensing/CONTRIBUTING.md /tmp/licensing/SECURITY.md \
    /path/to/new-repo/
